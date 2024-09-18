@@ -11,4 +11,6 @@ Steps:<br>
      e)Total Number Of Participating Countries<br>
      f)Total Number Of sports
 
+![Image](image_pdf.png)     
+
 
