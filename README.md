@@ -1,6 +1,7 @@
 # Power_Bi_Projects
 Here in this Folder I have uploaded my First Power Bi Project That is Based on Olympic Data Visualization
 Steps:<br>
+<br> Download Microsoft Power Bi Desktop From Microsoft Store<br>
 1)First import dataset in the Power Bi<br>
 2)Secondly transform data in the Desired Format or Remove the unnecessary columns And Null Value<br>
 3)Then Solve The Following Problem Statement Or Analyze It<br>
